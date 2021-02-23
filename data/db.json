@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "reminder": "quidem molestiae enim",
+		"time": "05:45"
+      },
+      {
+        "id": 2,
+        "reminder": "sunt qui excepturi placeat culpa",
+		"time": "11:20"
+      },
+      {
+        "id": 3,
+        "reminder": "omnis laborum odio",
+		"time": "12:15"
+      },
+      {
+        "id": 4,
+        "reminder": "non esse culpa molestiae omnis sed optio",
+		"time": "13:45"
+      },
+      {
+        "id": 5,
+        "reminder": "eaque aut omnis a",
+		"time": "18:30"
+      },
+      {
+        "id": 6,
+        "reminder": "natus impedit quibusdam illo est",
+		"time": "20:00"
+      },
+      {
+        "id": 7,
+        "reminder": "quibusdam autem aliquid et et quia",
+		"time": "22:45"
+      },
+      {
+        "id": 8,
+        "reminder": "qui fuga est a eum",
+		"time": "23:59"
+      }
+]
